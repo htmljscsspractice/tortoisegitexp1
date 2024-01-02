@@ -18,6 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
+    //Adding a comment
     public IActionResult Privacy()
     {
         return View();
